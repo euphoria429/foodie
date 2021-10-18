@@ -2,49 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="91d7f0c1-2fae-4fd9-81b3-7df529a1e914" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/foodie-dev-mapper/src/main/java/com/imooc/mapper/CarouselMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-dev-mapper/src/main/java/com/imooc/mapper/CategoryMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-dev-mapper/src/main/java/com/imooc/mapper/ItemsCommentsMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-dev-mapper/src/main/java/com/imooc/mapper/ItemsImgMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-dev-mapper/src/main/java/com/imooc/mapper/ItemsMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-dev-mapper/src/main/java/com/imooc/mapper/ItemsParamMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-dev-mapper/src/main/java/com/imooc/mapper/ItemsSpecMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-dev-mapper/src/main/java/com/imooc/mapper/OrderItemsMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-dev-mapper/src/main/java/com/imooc/mapper/OrderStatusMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-dev-mapper/src/main/java/com/imooc/mapper/OrdersMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-dev-mapper/src/main/java/com/imooc/mapper/StuMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-dev-mapper/src/main/java/com/imooc/mapper/UserAddressMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-dev-mapper/src/main/java/com/imooc/mapper/UsersMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-dev-mapper/src/main/java/com/imooc/my/mapper/MyMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-dev-mapper/src/main/resources/mapper/CarouselMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-dev-mapper/src/main/resources/mapper/CategoryMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-dev-mapper/src/main/resources/mapper/ItemsCommentsMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-dev-mapper/src/main/resources/mapper/ItemsImgMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-dev-mapper/src/main/resources/mapper/ItemsMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-dev-mapper/src/main/resources/mapper/ItemsParamMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-dev-mapper/src/main/resources/mapper/ItemsSpecMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-dev-mapper/src/main/resources/mapper/OrderItemsMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-dev-mapper/src/main/resources/mapper/OrderStatusMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-dev-mapper/src/main/resources/mapper/OrdersMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-dev-mapper/src/main/resources/mapper/StuMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-dev-mapper/src/main/resources/mapper/UserAddressMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-dev-mapper/src/main/resources/mapper/UsersMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-dev-pojo/src/main/java/com/imooc/pojo/Carousel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-dev-pojo/src/main/java/com/imooc/pojo/Category.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-dev-pojo/src/main/java/com/imooc/pojo/Items.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-dev-pojo/src/main/java/com/imooc/pojo/ItemsComments.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-dev-pojo/src/main/java/com/imooc/pojo/ItemsImg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-dev-pojo/src/main/java/com/imooc/pojo/ItemsParam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-dev-pojo/src/main/java/com/imooc/pojo/ItemsSpec.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-dev-pojo/src/main/java/com/imooc/pojo/OrderItems.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-dev-pojo/src/main/java/com/imooc/pojo/OrderStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-dev-pojo/src/main/java/com/imooc/pojo/Orders.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-dev-pojo/src/main/java/com/imooc/pojo/Stu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-dev-pojo/src/main/java/com/imooc/pojo/UserAddress.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-dev-pojo/src/main/java/com/imooc/pojo/Users.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/foodie-dev-api/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-api/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-dev-pojo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-pojo/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -64,8 +23,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/foodie-dev-api/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
-              <caret line="46" column="37" selection-start-line="46" selection-start-column="37" selection-end-line="46" selection-end-column="37" />
+            <state relative-caret-position="446">
+              <caret line="47" column="66" selection-start-line="47" selection-start-column="66" selection-end-line="47" selection-end-column="66" />
             </state>
           </provider>
         </entry>
@@ -73,8 +32,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/foodie-dev-mapper/src/main/java/com/imooc/my/mapper/MyMapper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="300">
+              <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -125,7 +84,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/foodie-dev-pojo/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
+            <state relative-caret-position="386">
               <caret line="24" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
@@ -386,7 +345,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1634277002034" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1634277008907" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../源码/mybatis-generator-for-imooc" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -448,18 +407,19 @@
       <option name="presentableId" value="Default" />
       <updated>1634190679134</updated>
       <workItem from="1634190682089" duration="7123000" />
-      <workItem from="1634261797561" duration="2031000" />
+      <workItem from="1634261797561" duration="2309000" />
+      <workItem from="1634525279905" duration="2718000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9154000" />
+    <option name="totallyTimeSpent" value="12150000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22768533" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23146747" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -637,6 +597,13 @@
     <entry file="file://$PROJECT_DIR$/foodie-dev-pojo/src/main/java/com/imooc/pojo/ItemsImg.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/foodie-dev-pojo/src/main/java/com/imooc/pojo/ItemsSpec.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/foodie-dev-pojo/src/main/java/com/imooc/pojo/Carousel.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -652,13 +619,6 @@
     <entry file="file://$PROJECT_DIR$/foodie-dev-pojo/src/main/java/com/imooc/pojo/Items.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/foodie-dev-pojo/src/main/java/com/imooc/pojo/ItemsSpec.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/foodie-dev-pojo/src/main/java/com/imooc/pojo/OrderItems.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
@@ -666,24 +626,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/foodie-dev-pojo/pom.xml">
+    <entry file="file://$PROJECT_DIR$/foodie-dev-mapper/src/main/java/com/imooc/my/mapper/MyMapper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="300">
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/foodie-dev-mapper/src/main/java/com/imooc/my/mapper/MyMapper.java">
+    <entry file="file://$PROJECT_DIR$/foodie-dev-pojo/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="386">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/foodie-dev-api/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="46" column="37" selection-start-line="46" selection-start-column="37" selection-end-line="46" selection-end-column="37" />
+        <state relative-caret-position="446">
+          <caret line="47" column="66" selection-start-line="47" selection-start-column="66" selection-end-line="47" selection-end-column="66" />
         </state>
       </provider>
     </entry>

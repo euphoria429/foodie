@@ -45,7 +45,7 @@ mapper-locations: classpath:mapper/*.xml # mapper映射文件
 # 通用 Mapper 配置
 mapper:
 mappers: com.imooc.my.mapper.MyMapper
-not-empty: false
+not-empty: false  #进行数据库操作的时候判断表达式username!=null 是否追加username!='';
 identity: MYSQL
 
 
